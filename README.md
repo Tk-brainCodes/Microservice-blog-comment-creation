@@ -1,2 +1,2 @@
-# Microservice-blog-post-creation
-A microservice blog post creation using React, Nodejs, Docker and Kubernetics
+# Microservice-blog-comment-creation
+A microservice blog comment creation and moderation - using React, Nodejs, Docker and Kubernetics
